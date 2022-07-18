@@ -11,3 +11,6 @@
 .vscode
 leopard.nims
 TODO
+
+nimble.develop
+nimble.paths
